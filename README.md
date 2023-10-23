@@ -15,6 +15,7 @@
 5. При нажатии на любого пользователя из списка, можно изменить его данные, удалить пользователя, посмотреть его историю запросов погоды
    ![image](https://github.com/Motmeyyy/HW3_WeatherMultiApp/assets/87497221/9d526362-e631-4693-9f9a-1d51f5ff1879)
    ![image](https://github.com/Motmeyyy/HW3_WeatherMultiApp/assets/87497221/695c93ae-ece4-4822-abcd-0d3149768914)
+   
    Пример истории запросов другого пользователя
    ![image](https://github.com/Motmeyyy/HW3_WeatherMultiApp/assets/87497221/eac21896-f75f-4abd-ba52-9ca224b23944)
 
